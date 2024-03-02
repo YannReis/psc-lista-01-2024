@@ -24,7 +24,7 @@ DATA: 29/02/2024        VERSÃO:01_2024_1
 		escreva("Quantas pessoas viajarão?" )
 		leia(pessoas)
 		limpa()
-		inteiro passagemTotal = (al + pt + it)
+		real passagemTotal = (al + pt + it)
 		escreva("O valor total da viagem para ", pessoas, " pessoa(s) será de: R$", passagemTotal * pessoas) 	
 	}
 }
